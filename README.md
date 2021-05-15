@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrBeanGuy
+- 👀 I’m interested in DiscordJS, DiscordPY, Database Management.
+- 🌱 I’m currently learning Database Management
+- 💞️ I’m looking to collaborate on Discord Bots and Discord Servers.
+- 📫 How to reach me: You can DM me on discord: MrBeanGuy#0001
